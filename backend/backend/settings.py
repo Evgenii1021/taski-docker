@@ -12,8 +12,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     "84.201.141.43",
-    "127.0.0.1",
-    "localhost",
     "taski.servebeer.com",
 ]
 
