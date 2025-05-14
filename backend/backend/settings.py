@@ -15,6 +15,7 @@ ALLOWED_HOSTS = [
     "taski.servebeer.com",
 ]
 
+
 # Application definition
 
 INSTALLED_APPS = [
